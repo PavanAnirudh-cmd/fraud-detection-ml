@@ -1,4 +1,4 @@
-# Fraud Detection using Machine Learning (Data Science Project)
+# Fraud Detection using Machine Learning 
 
 ## Project Type
 Theoretical Machine Learning Project
